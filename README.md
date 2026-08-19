@@ -1,3 +1,3 @@
 # README
 
-These are some exercise answers for ICTPRG302
+These are some exercise answers for ICTPRG302.
